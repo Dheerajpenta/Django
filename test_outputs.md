@@ -1,7 +1,7 @@
 [
 {
-    "logo_border": "#06053b",
-    "dominant_color": "#06053b"
+    "logo_border": "#fadae1",
+    "dominant_color": "#fadae1"
 },
 {
     "logo_border": "#ecf2f1",
