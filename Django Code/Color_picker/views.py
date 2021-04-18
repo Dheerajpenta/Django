@@ -3,11 +3,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 import sys
 
-if sys.version_info < (3, 0):
-    from urllib3 import urlopen
-else:
-    from urllib.request import urlopen
-
+from urllib.request import urlopen
 import io
 from colorthief import ColorThief
 import webcolors
